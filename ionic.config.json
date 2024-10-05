@@ -1,0 +1,7 @@
+{
+  "name": "coupleread",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
